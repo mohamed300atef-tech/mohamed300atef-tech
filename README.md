@@ -1,0 +1,32 @@
+<h1 align="center">Hi, I'm Mohamed Atef 👋</h1>
+<h3 align="center">AI Engineer · ML Engineer · Data Scientist</h3>
+
+<p align="center">
+  <a href="https://mohamedatefelsayed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mohamedatefelsayed.vercel.app-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-atef-elsayed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamed300atef@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+I build AI systems that leave the notebook: a **computer-vision monitoring system delivered to a steel factory**, **LLM and multi-agent applications**, and the data pipelines underneath them. Based in Egypt 🇪🇬 · **AWS Certified Machine Learning Engineer – Associate**.
+
+### 🚀 Featured projects
+
+| Project | What it does | Highlights |
+|---|---|---|
+| [**Customer Churn + Explainable AI**](https://github.com/mohamed300atef-tech/customer-churn-xai) | Predicts which customers will leave and explains why | XGBoost · SHAP · cost-aware threshold · FastAPI · Docker |
+| [**Fashion CNN + Grad-CAM**](https://github.com/mohamed300atef-tech/fashion-cnn-gradcam) | Deep-learning image classifier that shows where it looks | PyTorch · CNN · Grad-CAM from scratch |
+| [**Arabic Sentiment Analysis**](https://github.com/mohamed300atef-tech/arabic-sentiment-analysis) | Positive/negative classification of Arabic reviews | Arabic NLP · 100k reviews · label-leak fix · API |
+| [**Energy Demand Forecasting**](https://github.com/mohamed300atef-tech/energy-demand-forecasting) | 7-day forecast of Germany's electricity demand | LightGBM · holidays · walk-forward backtest |
+
+**Also built:** a Smart Surveillance System for a steel factory (YOLO + ByteTrack + LLaVA), a four-agent LangGraph study planner, and RAG applications.
+
+### 🧰 Toolbox
+**ML / DL:** Python · PyTorch · TensorFlow · scikit-learn · XGBoost · LightGBM · SHAP
+**GenAI:** LLMs · RAG · LangChain · LangGraph · Hugging Face · embeddings · vector DBs
+**Computer vision:** YOLO · OpenCV · ByteTrack · LLaVA
+**Engineering:** FastAPI · Docker · PostgreSQL · AWS · Git · MLOps
+
+### 🏅 Certifications
+AWS Certified Machine Learning Engineer – Associate · AWS Certified Cloud Practitioner · Microsoft Certified: SQL AI Developer Associate · Huawei HCIA-AI · IBM AI Engineering Professional Certificate · Machine Learning Specialization (Stanford / DeepLearning.AI)
+
+<p align="center"><i>Open to AI / ML engineering roles, so let's talk.</i></p>

@@ -13,6 +13,7 @@ I build AI systems that leave the notebook: a **computer-vision monitoring syste
 
 | Project | What it does | Highlights |
 |---|---|---|
+| [**Arabic Handwriting Recognition**](https://github.com/mohamed300atef-tech/arabic-handwriting-ocr) · [**live demo**](https://mohamedatefelsayed.vercel.app/en/demos/arabic-handwriting) | Draw an Arabic letter, a CNN reads it in your browser | PyTorch CNN · 97% on unseen writers · custom TypeScript inference |
 | [**Agentic RAG with LangGraph**](https://github.com/mohamed300atef-tech/agentic-rag-langgraph) | Doc assistant that grades its own search, rewrites queries and cites sources | LangGraph · LangChain · hybrid BM25 + TF-IDF · grounding check |
 | [**Customer Churn + Explainable AI**](https://github.com/mohamed300atef-tech/customer-churn-xai) | Predicts which customers will leave and explains why | XGBoost · SHAP · cost-aware threshold · FastAPI · Docker |
 | [**Fashion CNN + Grad-CAM**](https://github.com/mohamed300atef-tech/fashion-cnn-gradcam) | Deep-learning image classifier that shows where it looks | PyTorch · CNN · Grad-CAM from scratch |

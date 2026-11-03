@@ -17,6 +17,7 @@ I build AI systems that leave the notebook: a **computer-vision monitoring syste
 | [**Customer Churn + Explainable AI**](https://github.com/mohamed300atef-tech/customer-churn-xai) | Predicts which customers will leave and explains why | XGBoost · SHAP · cost-aware threshold · FastAPI · Docker |
 | [**Fashion CNN + Grad-CAM**](https://github.com/mohamed300atef-tech/fashion-cnn-gradcam) | Deep-learning image classifier that shows where it looks | PyTorch · CNN · Grad-CAM from scratch |
 | [**Arabic Sentiment Analysis**](https://github.com/mohamed300atef-tech/arabic-sentiment-analysis) | Positive/negative classification of Arabic reviews | Arabic NLP · 100k reviews · label-leak fix · API |
+| [**Predictive Maintenance (Jet Engines)**](https://github.com/mohamed300atef-tech/predictive-maintenance-rul) | Predicts how many cycles an engine has left before failure | LightGBM + PyTorch 1D-CNN · NASA C-MAPSS · 3-cycle error near failure |
 | [**Energy Demand Forecasting**](https://github.com/mohamed300atef-tech/energy-demand-forecasting) | 7-day forecast of Germany's electricity demand | LightGBM · holidays · walk-forward backtest |
 
 **Also built:** a Smart Surveillance System for a steel factory (YOLO + ByteTrack + LLaVA), and a four-agent LangGraph study planner.

@@ -13,12 +13,13 @@ I build AI systems that leave the notebook: a **computer-vision monitoring syste
 
 | Project | What it does | Highlights |
 |---|---|---|
+| [**Agentic RAG with LangGraph**](https://github.com/mohamed300atef-tech/agentic-rag-langgraph) | Doc assistant that grades its own search, rewrites queries and cites sources | LangGraph · LangChain · hybrid BM25 + TF-IDF · grounding check |
 | [**Customer Churn + Explainable AI**](https://github.com/mohamed300atef-tech/customer-churn-xai) | Predicts which customers will leave and explains why | XGBoost · SHAP · cost-aware threshold · FastAPI · Docker |
 | [**Fashion CNN + Grad-CAM**](https://github.com/mohamed300atef-tech/fashion-cnn-gradcam) | Deep-learning image classifier that shows where it looks | PyTorch · CNN · Grad-CAM from scratch |
 | [**Arabic Sentiment Analysis**](https://github.com/mohamed300atef-tech/arabic-sentiment-analysis) | Positive/negative classification of Arabic reviews | Arabic NLP · 100k reviews · label-leak fix · API |
 | [**Energy Demand Forecasting**](https://github.com/mohamed300atef-tech/energy-demand-forecasting) | 7-day forecast of Germany's electricity demand | LightGBM · holidays · walk-forward backtest |
 
-**Also built:** a Smart Surveillance System for a steel factory (YOLO + ByteTrack + LLaVA), a four-agent LangGraph study planner, and RAG applications.
+**Also built:** a Smart Surveillance System for a steel factory (YOLO + ByteTrack + LLaVA), and a four-agent LangGraph study planner.
 
 ### 🧰 Toolbox
 **ML / DL:** Python · PyTorch · TensorFlow · scikit-learn · XGBoost · LightGBM · SHAP

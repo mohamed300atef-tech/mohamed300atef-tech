@@ -13,7 +13,10 @@ I build AI systems that leave the notebook: a **computer-vision monitoring syste
 
 | Project | What it does | Highlights |
 |---|---|---|
-| [**Arabic Handwriting Recognition**](https://github.com/mohamed300atef-tech/arabic-handwriting-ocr) · [**live demo**](https://mohamedatefelsayed.vercel.app/en/demos/arabic-handwriting) | Draw an Arabic letter, a CNN reads it in your browser | PyTorch CNN · 97% on unseen writers · custom TypeScript inference |
+| [**Arabic Handwriting Recognition**](https://github.com/mohamed300atef-tech/arabic-handwriting-ocr) · [**live demo**](https://mohamedatefelsayed.vercel.app/en/lab#handwriting) | Draw an Arabic letter, a CNN reads it in your browser | PyTorch CNN · 97% on unseen writers · custom TypeScript inference |
+| [**Industrial Anomaly Detection**](https://github.com/mohamed300atef-tech/industrial-anomaly-detection) · [**live demo**](https://mohamedatefelsayed.vercel.app/en/lab#anomaly) | Catches a failing machine from one temperature sensor | PyTorch autoencoder · 3 of 4 incidents caught, one 10.9 h early · runs in the browser |
+| [**Restricted-Zone Monitor**](https://github.com/mohamed300atef-tech/browser-zone-monitor) · [**live demo**](https://mohamedatefelsayed.vercel.app/en/lab#zone) | Counts people inside a zone you draw, on your own camera | Object detection · ONNX Runtime Web · WebAssembly · 100% on-device |
+| [**Arabic Diacritization (Tashkeel)**](https://github.com/mohamed300atef-tech/arabic-diacritization) · [**live demo**](https://mohamedatefelsayed.vercel.app/ar/lab#tashkeel) | Adds the missing harakat to Arabic text | Dilated CNN · 95.4% of letters correct · same output as PyTorch in the browser |
 | [**Agentic RAG with LangGraph**](https://github.com/mohamed300atef-tech/agentic-rag-langgraph) | Doc assistant that grades its own search, rewrites queries and cites sources | LangGraph · LangChain · hybrid BM25 + TF-IDF · grounding check |
 | [**Customer Churn + Explainable AI**](https://github.com/mohamed300atef-tech/customer-churn-xai) | Predicts which customers will leave and explains why | XGBoost · SHAP · cost-aware threshold · FastAPI · Docker |
 | [**Fashion CNN + Grad-CAM**](https://github.com/mohamed300atef-tech/fashion-cnn-gradcam) | Deep-learning image classifier that shows where it looks | PyTorch · CNN · Grad-CAM from scratch |

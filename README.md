@@ -19,6 +19,7 @@ I build AI systems that leave the notebook: a **computer-vision monitoring syste
 | [**Fashion CNN + Grad-CAM**](https://github.com/mohamed300atef-tech/fashion-cnn-gradcam) | Deep-learning image classifier that shows where it looks | PyTorch · CNN · Grad-CAM from scratch |
 | [**Arabic Sentiment Analysis**](https://github.com/mohamed300atef-tech/arabic-sentiment-analysis) | Positive/negative classification of Arabic reviews | Arabic NLP · 100k reviews · label-leak fix · API |
 | [**Predictive Maintenance (Jet Engines)**](https://github.com/mohamed300atef-tech/predictive-maintenance-rul) | Predicts how many cycles an engine has left before failure | LightGBM + PyTorch 1D-CNN · NASA C-MAPSS · 3-cycle error near failure |
+| [**Quantum Machine Learning**](https://github.com/mohamed300atef-tech/quantum-ml-classifier) | Quantum vs classical classifiers, head-to-head | PennyLane · variational circuit · quantum-kernel SVM · 100× faster simulation |
 | [**Energy Demand Forecasting**](https://github.com/mohamed300atef-tech/energy-demand-forecasting) | 7-day forecast of Germany's electricity demand | LightGBM · holidays · walk-forward backtest |
 
 **Also built:** a Smart Surveillance System for a steel factory (YOLO + ByteTrack + LLaVA), and a four-agent LangGraph study planner.
